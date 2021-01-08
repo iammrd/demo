@@ -1,6 +1,16 @@
 {
-  "user":{
-    "id": 1,
-    "name": "ASD"
-  }
+  "user": [
+    {
+      "id": 1,
+      "name": "ASD"
+    },
+    {
+      "id": 2,
+      "name": "BCD"
+    },
+    {
+      "id": 3,
+      "name": "MSD"
+    },
+  ]
 }
