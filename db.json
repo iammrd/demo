@@ -1,14 +1,24 @@
 {
-  "foos": [
-    {
-      "id": 1,
-      "title": "A foo"
-    }
-  ],
-  "bars": [
-    {
-      "id": 1,
-      "title": "A bar"
-    }
+  "articles":[
+  { "id": 1,
+    "name": "AIA APPOINTS JAYNE PLUNKETT AS GROUP CHIEF RISK OFFICER",
+    "date": "16/10/2019 08:15:19",
+    "type": "News",
+    "condition": 1 },
+  { "id": 2,
+    "name": "Eve x AIA FAQ",
+    "date": "16/10/2019 08:15:19",
+    "type": "Documents",
+    "condition": 1 },
+  { "id": 3,
+    "name": "6 MAIN FACTORS TO BE AIA LEADER",
+    "date": "16/10/2019 08:15:19",
+    "type": "Documents",
+    "condition": 2 },
+  { "id": 4,
+    "name": "AIA APPOINTS JAYNE PLUNKETT AS GROUP CHIEF RISK OFFICER",
+    "date": "16/10/2019 08:15:19",
+    "type": "News",
+    "condition": 1 }
   ]
 }
